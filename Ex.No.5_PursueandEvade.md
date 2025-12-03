@@ -1,6 +1,5 @@
-# Ex.No: 5  Implementation of Steering behaviour-Pursue and Evade in Unity
-### DATE:19/03/2025                                                                            
-### REGISTER NUMBER :212223230198
+# Ex.No: 5  Implementation of Steering behaviour-Pursue and Evade in Unity                                                                           
+### REGISTER NUMBER :212223240148
 ### AIM: 
 To write a program to simulate the process of Pursue and Evade behavior in Unity using NavigationMeshAgent. 
 ### Algorithm:
